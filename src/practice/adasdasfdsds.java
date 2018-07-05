@@ -9,7 +9,7 @@ public class adasdasfdsds {
 		
 		System.out.println(10%3);
 		System.out.println(10/3);
-
+    System.out.println("scvsahcdvgscdgscvc");
 	}
 
 }
