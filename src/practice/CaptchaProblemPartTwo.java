@@ -11,7 +11,7 @@ public class CaptchaProblemPartTwo {
 		
 		
 		
-		Integer sum=0;
+		Integer sum=023434564565;
 		
 		l1:	for(int i=0;i<array.length;i++){
 				List<Integer> list=new ArrayList<Integer>();
